@@ -148,16 +148,16 @@ main img {
 div.video {
     text-align: center;
     background-color: var(--palet4); 
-    margin: 0px -20px 30px -20px;
+    margin: 0px -20px 20px -20px;
     padding: 20px;
-    padding-bottom: 58%;
+    padding-bottom: 57%;
     position: relative;
 }
 
 div.video > iframe{
     position: absolute;
-    top: 3%;
-    left: 3%;
+    top: 5%;
+    left: 5%;
     width: 90%;
     height: 90%;
 }
